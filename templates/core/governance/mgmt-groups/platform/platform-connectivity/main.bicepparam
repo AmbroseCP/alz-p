@@ -14,7 +14,7 @@ param platformConnectivityConfig = {
   managementGroupIntermediateRootName: 'Ambrosealz'
   managementGroupDisplayName: 'AmbroseConnectivity'
   managementGroupDoNotEnforcePolicyAssignments: []
-  managementGroupExcludedPolicyAssignments: []
+  managementGroupExcludedPolicyAssignments: ['Enable-DDoS-VNET']
   customerRbacRoleDefs: []
   customerRbacRoleAssignments: []
   customerPolicyDefs: []
