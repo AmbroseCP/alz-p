@@ -9,6 +9,6 @@
   "LOCATION"                             : "centralus",
   "LOCATION_PRIMARY"                     : "centralus",
   "MANAGEMENT_GROUP_ID"                  : "Ambrose-MG",
-  "LOCATION_SECONDARY"                   : "eastus",
+  "LOCATION_SECONDARY"                   : "eastus2",
   "SUBSCRIPTION_ID_SECURITY"             : "061013e1-4c11-42b3-b729-ba65bbd85a4d"
 }
