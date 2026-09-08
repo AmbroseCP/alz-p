@@ -7,3 +7,4 @@ alz-p
 Disabling DDOS (make sure to do this):
 <https://azure.github.io/Azure-Landing-Zones/bicep/howtos/modifyingpolicyassignments/>
 
+<https://azure.github.io/Azure-Landing-Zones/bicep/howtos/modifyingpolicyassignments/>
