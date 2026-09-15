@@ -12,7 +12,7 @@ param landingZonesOnlineConfig = {
   managementGroupName: 'Ambroseonline'
   managementGroupParentId: 'Ambroselandingzones'
   managementGroupIntermediateRootName: 'Ambrosealz'
-  managementGroupDisplayName: 'AmbroseOnline'
+  managementGroupDisplayName: 'Ambrose - Online'
   managementGroupDoNotEnforcePolicyAssignments: []
   managementGroupExcludedPolicyAssignments: []
   customerRbacRoleDefs: []

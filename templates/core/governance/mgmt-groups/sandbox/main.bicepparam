@@ -12,7 +12,7 @@ param sandboxConfig = {
   managementGroupName: 'Ambrosesandbox'
   managementGroupParentId: 'Ambrosealz'
   managementGroupIntermediateRootName: 'Ambrosealz'
-  managementGroupDisplayName: 'AmbroseSandbox'
+  managementGroupDisplayName: 'Ambrose - Sandbox'
   managementGroupDoNotEnforcePolicyAssignments: []
   managementGroupExcludedPolicyAssignments: []
   customerRbacRoleDefs: []

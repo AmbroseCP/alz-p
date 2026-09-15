@@ -12,7 +12,7 @@ param decommissionedConfig = {
   managementGroupName: 'Ambrosedecommissioned'
   managementGroupParentId: 'Ambrosealz'
   managementGroupIntermediateRootName: 'Ambrosealz'
-  managementGroupDisplayName: 'AmbroseDecommissioned'
+  managementGroupDisplayName: 'Ambrose - Decommissioned'
   managementGroupDoNotEnforcePolicyAssignments: []
   managementGroupExcludedPolicyAssignments: []
   customerRbacRoleDefs: []

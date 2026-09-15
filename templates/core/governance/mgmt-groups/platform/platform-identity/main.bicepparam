@@ -12,7 +12,7 @@ param platformIdentityConfig = {
   managementGroupName: 'Ambroseidentity'
   managementGroupParentId: 'Ambroseplatform'
   managementGroupIntermediateRootName: 'Ambrosealz'
-  managementGroupDisplayName: 'AmbroseIdentity'
+  managementGroupDisplayName: 'Ambrose - Identity'
   managementGroupDoNotEnforcePolicyAssignments: []
   managementGroupExcludedPolicyAssignments: []
   customerRbacRoleDefs: []
@@ -31,5 +31,5 @@ param platformIdentityConfig = {
 
 // Only specify the parameters you want to override - others will use defaults from JSON files
 param parPolicyAssignmentParameterOverrides = {
-    // No policy assignments in platform-identity currently
+  // No policy assignments in platform-identity currently
 }

@@ -19,7 +19,7 @@ param parMgmtLoggingResourceGroup = 'rg-p-alz-logging-${parLocations[0]}'
 // Automation Account Parameters
 param parAutomationAccountName = 'aa-alz-${parLocations[0]}'
 param parAutomationAccountLocation = parLocations[0]
-param parDeployAutomationAccount = false
+param parDeployAutomationAccount = true //Updated this to true on 9/14/2026
 param parAutomationAccountUseManagedIdentity = true
 param parAutomationAccountPublicNetworkAccess = true
 param parAutomationAccountSku = 'Basic'

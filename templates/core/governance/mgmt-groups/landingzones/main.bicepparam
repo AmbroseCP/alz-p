@@ -12,7 +12,7 @@ param landingZonesConfig = {
   managementGroupName: 'Ambroselandingzones'
   managementGroupParentId: 'Ambrosealz'
   managementGroupIntermediateRootName: 'Ambrosealz'
-  managementGroupDisplayName: 'AmbroseLanding Zones'
+  managementGroupDisplayName: 'Ambrose - Landing Zones'
   managementGroupDoNotEnforcePolicyAssignments: []
   managementGroupExcludedPolicyAssignments: ['Enable-DDoS-VNET']
   customerRbacRoleDefs: []
