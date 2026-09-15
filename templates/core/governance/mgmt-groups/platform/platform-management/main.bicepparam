@@ -12,7 +12,7 @@ param platformManagementConfig = {
   managementGroupName: 'Ambrosemanagement'
   managementGroupParentId: 'Ambroseplatform'
   managementGroupIntermediateRootName: 'Ambrosealz'
-  managementGroupDisplayName: 'AmbroseManagement'
+  managementGroupDisplayName: 'Ambrose - Management'
   managementGroupDoNotEnforcePolicyAssignments: []
   managementGroupExcludedPolicyAssignments: []
   customerRbacRoleDefs: []

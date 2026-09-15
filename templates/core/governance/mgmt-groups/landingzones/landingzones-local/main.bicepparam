@@ -12,7 +12,7 @@ param landingZonesLocalConfig = {
   managementGroupName: 'Ambroselocal'
   managementGroupParentId: 'Ambroselandingzones'
   managementGroupIntermediateRootName: 'Ambrosealz'
-  managementGroupDisplayName: 'AmbroseLocal'
+  managementGroupDisplayName: 'Ambrose - Local'
   managementGroupDoNotEnforcePolicyAssignments: []
   managementGroupExcludedPolicyAssignments: []
   customerRbacRoleDefs: []

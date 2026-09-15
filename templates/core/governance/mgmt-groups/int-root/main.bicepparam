@@ -11,7 +11,7 @@ param intRootConfig = {
   createOrUpdateManagementGroup: true
   managementGroupName: 'Ambrosealz'
   managementGroupParentId: 'Ambrose-MG'
-  managementGroupDisplayName: 'AmbroseAzure Landing Zones'
+  managementGroupDisplayName: 'Ambrose - Azure Landing Zones'
   managementGroupDoNotEnforcePolicyAssignments: []
   managementGroupExcludedPolicyAssignments: []
   customerRbacRoleDefs: []
